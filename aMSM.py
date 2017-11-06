@@ -9,6 +9,8 @@ Created on Thu Oct 20 22:40:37 2016
 import pulp
 import numpy as np 
 
+#testing modification (erase comment)
+
 # Observaciones
 P = np.array([[1,0], [1,1]])
 print('Matriz P')
